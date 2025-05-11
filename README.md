@@ -31,6 +31,7 @@
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 - [Neovim](https://neovim.io/)
 - [zellij](https://github.com/zellij-org/zellij)
+- [starship](https://github.com/starship/starship)
 - [alacritty](https://github.com/alacritty/alacritty)
 - [rofi](https://github.com/davatorium/rofi)
 - [waybar](https://github.com/Alexays/Waybar)
