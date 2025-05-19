@@ -131,6 +131,7 @@ return {
     end,
   },
   -- "luk400/vim-jukit",
+  { "karloskar/poetry-nvim", config = function() require("poetry-nvim").setup() end },
   "xiyaowong/transparent.nvim",
   {
     "windwp/nvim-autopairs",
