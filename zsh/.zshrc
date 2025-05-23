@@ -145,6 +145,7 @@ export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 export LANG=en_US.UTF-8
 export MANPAGER='nvim +Man!'
+export EDITOR='mvim'
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #source ~/.oh-my-zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 #/usr/bin/rxf
