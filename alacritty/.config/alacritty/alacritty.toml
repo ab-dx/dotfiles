@@ -236,11 +236,11 @@ multiplier = 3
 
 [font]
 #normal = { family = "Terminess Nerd Font", style = "SemiBold"}
-#normal = { family = "JetBrainsMono Nerd Font", style = "SemiBold"}
+normal = { family = "JetBrainsMono Nerd Font", style = "SemiBold"}
 #normal = { family = "Hack Nerd Font", style = "SemiBold"}
 #normal = { family = "FiraCode Nerd Font", style = "SemiBold"}
 #normal = { family = "BlexMono Nerd Font", style = "Regular"}
-normal = { family = "CaskaydiaCove Nerd Font", style = "Regular"}
+#normal = { family = "CaskaydiaCove Nerd Font", style = "Regular"}
 #normal = { family = "Iosevka Nerd Font", style = "SemiBold"}
 #normal = { family = "SpaceMono Nerd Font", style = "Regular"}
 #normal = { family = "DroidSansM Nerd Font", style = "Bold"}
