@@ -60,6 +60,16 @@ return {
       -- vim.cmd.colorscheme "gruvbox-material"
     end,
   },
+  "nvim-lua/plenary.nvim",
+  {
+    "nvim-flutter/flutter-tools.nvim",
+    lazy = false,
+    dependencies = {
+      "nvim-lua/plenary.nvim",
+      "stevearc/dressing.nvim", -- optional for vim.ui.select
+    },
+    config = true,
+  },
   "phha/zenburn.nvim",
   {
     "rockyzhang24/arctic.nvim",

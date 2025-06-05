@@ -179,3 +179,9 @@ configuration {
 	me-accept-custom: "Control+MouseDPrimary";
 */
 }
+
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+
+//@theme "/home/helix/.local/share/rofi/themes/spotlight-dark.rasi"
+
+@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"

@@ -30,6 +30,7 @@
   "everblush": { "branch": "main", "commit": "678f808d81801b983b6fb8296fb17ba1b2785d7c" },
   "everforest": { "branch": "master", "commit": "ffa5a2032fd41903135fa829bd4b49ba2e1d5d18" },
   "fluoromachine.nvim": { "branch": "main", "commit": "d638ea221b4c6636978f49c1987d10ff2733c23d" },
+  "flutter-tools.nvim": { "branch": "main", "commit": "d1022db80dab2a565563993843e8c60b20a3df39" },
   "friendly-snippets": { "branch": "main", "commit": "efff286dd74c22f731cdec26a70b46e5b203c619" },
   "github-nvim-theme": { "branch": "main", "commit": "c106c9472154d6b2c74b74565616b877ae8ed31d" },
   "gitsigns.nvim": { "branch": "main", "commit": "7010000889bfb6c26065e0b0f7f1e6aa9163edd9" },

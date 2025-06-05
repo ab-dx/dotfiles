@@ -23,7 +23,7 @@
 # ]
 
 general.import = [
-      "~/.config/alacritty/themes/one_dark.toml"
+#      "~/.config/alacritty/themes/one_dark.toml"
 ]
 
 # live_config_reload = true | false
@@ -244,7 +244,7 @@ normal = { family = "JetBrainsMono Nerd Font", style = "SemiBold"}
 #normal = { family = "Iosevka Nerd Font", style = "SemiBold"}
 #normal = { family = "SpaceMono Nerd Font", style = "Regular"}
 #normal = { family = "DroidSansM Nerd Font", style = "Bold"}
-size = 11
+size = 10
 builtin_box_drawing = true 
 
 # COLORS
