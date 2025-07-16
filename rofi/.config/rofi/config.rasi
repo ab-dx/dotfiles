@@ -184,4 +184,10 @@ configuration {
 
 //@theme "/home/helix/.local/share/rofi/themes/spotlight-dark.rasi"
 
+//@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+
+//@theme "/home/helix/.local/share/rofi/themes/spotlight-dark.rasi"
+
+//@theme "/home/helix/.local/share/rofi/themes/rounded-blue-dark.rasi"
+
 @theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"

@@ -146,6 +146,13 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 export LANG=en_US.UTF-8
 export MANPAGER='nvim +Man!'
 export EDITOR='nvim'
+export CHROME_EXECUTABLE='chromium'
+export PATH="$PATH:$HOME/flutter-sdk/flutter/bin"
+export ANDROID_SDK_ROOT="$HOME/Android/Sdk"
+export PATH="$ANDROID_SDK_ROOT/cmdline-tools/latest/bin:$PATH"
+export PATH="$ANDROID_SDK_ROOT/platform-tools:$PATH"
+export PATH="$ANDROID_SDK_ROOT/emulator:$PATH"
+
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #source ~/.oh-my-zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 #/usr/bin/rxf
@@ -165,3 +172,9 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 # unset __conda_setup
 # <<< conda initialize <<<
 
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/home/helix/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/home/helix/Downloads/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/home/helix/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/home/helix/Downloads/google-cloud-sdk/completion.zsh.inc'; fi

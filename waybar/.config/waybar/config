@@ -16,7 +16,7 @@
     "position": "top",
 
     // If height property would be not present, it'd be calculated dynamically
-    "height": 28,
+    "height": 20,
 
     "modules-left": [
         "custom/logo",
@@ -130,10 +130,8 @@
         "max-length": 120
     },
     "hyprland/workspaces": {
-     "format": "{icon}",
      "on-scroll-up": "hyprctl dispatch workspace e+1",
      "on-scroll-down": "hyprctl dispatch workspace e-1",
-        "format": "{icon}",
         "format-icons": {
             "1:console": "", 
             "2:web": "", 
