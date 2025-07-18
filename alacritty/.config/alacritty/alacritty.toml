@@ -23,7 +23,7 @@
 # ]
 
 general.import = [
-     "~/.config/alacritty/themes/gruvbox_material_hard_dark.toml"
+     "~/.config/alacritty/themes/tokyo_night.toml"
 ]
 
 # live_config_reload = true | false

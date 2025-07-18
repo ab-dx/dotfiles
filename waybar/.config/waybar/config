@@ -68,7 +68,7 @@
     "custom/logo": {
         "format": "",
         "tooltip": false,
-        "on-click": "hyprlock & loginctl hibernate"
+        "on-click": "rofi -show drun"
     },
 
     "clock#time": {

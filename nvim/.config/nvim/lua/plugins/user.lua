@@ -61,6 +61,7 @@ return {
     end,
   },
   "nvim-lua/plenary.nvim",
+  "tiagovla/tokyodark.nvim",
   {
     "nvim-flutter/flutter-tools.nvim",
     lazy = false,
