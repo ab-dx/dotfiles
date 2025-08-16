@@ -178,3 +178,5 @@ if [ -f '/home/helix/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/home/h
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/home/helix/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/home/helix/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
+
+export PATH=$PATH:/home/helix/.spicetify
